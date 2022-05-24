@@ -1,0 +1,5 @@
+{
+    "accessKeyId": "Insira sua accessKey aqui",
+    "secretAccessKey": "Insira sua secretAccessKey aqui",
+    "region": "Insira a região da sua instância de DynamoDB aqui"
+  }
